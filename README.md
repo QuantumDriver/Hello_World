@@ -13,7 +13,7 @@
 - Pandas
 - Matplotlib/Seaborn
 - Sklearn
-## 2 [机器学习](https://github.com/QuantumDriver/Hello_World/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95)
+## 2 [机器学习](https://github.com/QuantumDriver/Hello_World/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 - 基础知识
 - 线性回归和逻辑回归
 - 支持向量机
