@@ -28,9 +28,9 @@
 - 神经网络
 ## 3 [数据结构与算法]()
 - [复杂度分析](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%97%B6%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.ipynb)
+- 数组：[基础知识](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84.ipynb) [例题](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84%E9%A2%98.ipynb)
+- 树类
+- 图论：[Part1](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA1.ipynb) [Part2](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA2.ipynb)
 - 分治算法
 - 贪心算法
 - 动态规划
-- 基本数据结构
-- 树
-- 图论: [Part1](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA1.ipynb) [Part2](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA2.ipynb)
