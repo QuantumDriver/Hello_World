@@ -15,7 +15,7 @@
 - Sklearn
 ## 2 [机器学习](https://github.com/QuantumDriver/Hello_World/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 - [基础知识](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.ipynb)
-- 线性回归
+- 线性回归 [理论](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.pdf) [代码]()
 - 逻辑回归
 - 支持向量机
 - 朴素贝叶斯
@@ -29,6 +29,7 @@
 ## 3 [数据结构与算法]()
 - [复杂度分析](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%97%B6%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.ipynb)
 - 数组：[基础知识](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84.ipynb) [一维数组例题](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84%E9%A2%98.ipynb) [二维数组例题1](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%841.ipynb) [二维数组例题2](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%842.ipynb)
+- 字符串：[例题1](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%AD%97%E7%AC%A6%E4%B8%B21.ipynb) [例题2-3](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%AD%97%E7%AC%A6%E4%B8%B22-3.ipynb)
 - 树类
 - 图论：[Part1](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA1.ipynb) [Part2](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA2.ipynb)
 - 分治算法
