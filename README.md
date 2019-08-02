@@ -15,8 +15,8 @@
 - Sklearn
 ## 2 [机器学习](https://github.com/QuantumDriver/Hello_World/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 - [基础知识](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.ipynb)
-- 线性回归 [理论](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.pdf) [代码]()
-- 逻辑回归 [理论](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.pdf) [代码]()
+- 线性回归 [理论](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.pdf) [代码](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BB%A3%E7%A0%81.ipynb)
+- 逻辑回归 [理论](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.pdf) [代码](https://github.com/QuantumDriver/Hello_World/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BB%A3%E7%A0%81.ipynb)
 - 支持向量机
 - 朴素贝叶斯
 - 最近邻
